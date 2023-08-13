@@ -1,0 +1,15 @@
+E:\Programming tings\Game Engines\moose-engine-basic\bin\Debug\net7.0\moose-engine-basic.exe
+E:\Programming tings\Game Engines\moose-engine-basic\bin\Debug\net7.0\moose-engine-basic.deps.json
+E:\Programming tings\Game Engines\moose-engine-basic\bin\Debug\net7.0\moose-engine-basic.runtimeconfig.json
+E:\Programming tings\Game Engines\moose-engine-basic\bin\Debug\net7.0\moose-engine-basic.dll
+E:\Programming tings\Game Engines\moose-engine-basic\bin\Debug\net7.0\moose-engine-basic.pdb
+E:\Programming tings\Game Engines\moose-engine-basic\obj\Debug\net7.0\moose-engine-basic.csproj.AssemblyReference.cache
+E:\Programming tings\Game Engines\moose-engine-basic\obj\Debug\net7.0\moose-engine-basic.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming tings\Game Engines\moose-engine-basic\obj\Debug\net7.0\moose-engine-basic.AssemblyInfoInputs.cache
+E:\Programming tings\Game Engines\moose-engine-basic\obj\Debug\net7.0\moose-engine-basic.AssemblyInfo.cs
+E:\Programming tings\Game Engines\moose-engine-basic\obj\Debug\net7.0\moose-engine-basic.csproj.CoreCompileInputs.cache
+E:\Programming tings\Game Engines\moose-engine-basic\obj\Debug\net7.0\moose-engine-basic.dll
+E:\Programming tings\Game Engines\moose-engine-basic\obj\Debug\net7.0\refint\moose-engine-basic.dll
+E:\Programming tings\Game Engines\moose-engine-basic\obj\Debug\net7.0\moose-engine-basic.pdb
+E:\Programming tings\Game Engines\moose-engine-basic\obj\Debug\net7.0\moose-engine-basic.genruntimeconfig.cache
+E:\Programming tings\Game Engines\moose-engine-basic\obj\Debug\net7.0\ref\moose-engine-basic.dll
