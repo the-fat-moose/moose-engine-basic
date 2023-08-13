@@ -1,11 +1,47 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "OpenGL.Net/0.8.4": {
+        "type": "package",
+        "compile": {
+          "lib/net461/OpenGL.Net.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net461/OpenGL.Net.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "OpenGL.Net/0.8.4": {
+      "sha512": "F7o2KkIrz9rrtBY7+VRgPKnf2mV8pt3h4/o/CWPt86oIocjzKTQFNo2qH4zVYSWyy/T9rS0xBpu9t75MS6wM8Q==",
+      "type": "package",
+      "path": "opengl.net/0.8.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/monoandroid/OpenGL.Net.dll",
+        "lib/monoandroid/OpenGL.Net.xml",
+        "lib/net35/OpenGL.Net.dll",
+        "lib/net35/OpenGL.Net.pdb",
+        "lib/net35/OpenGL.Net.xml",
+        "lib/net461/OpenGL.Net.dll",
+        "lib/net461/OpenGL.Net.pdb",
+        "lib/net461/OpenGL.Net.xml",
+        "opengl.net.0.8.4.nupkg.sha512",
+        "opengl.net.nuspec"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "OpenGL.Net >= 0.8.4"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Shelby Leggott\\.nuget\\packages\\": {}
@@ -43,6 +79,12 @@
     "frameworks": {
       "net7.0": {
         "targetAlias": "net7.0",
+        "dependencies": {
+          "OpenGL.Net": {
+            "target": "Package",
+            "version": "[0.8.4, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",
@@ -62,5 +104,17 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'OpenGL.Net 0.8.4' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "OpenGL.Net",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
 }
